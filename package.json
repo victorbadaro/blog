@@ -2,7 +2,7 @@
   "name": "blog",
   "private": true,
   "version": "0.0.0",
-  "homepage": "blog/",
+  "homepage": "blog",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
